@@ -1,9 +1,9 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-FN:Vladimir Jimenez Puerta
-TEL: +57 3153155112
-NOTE: Socio Fundador
+FN:Diego Fernando Luna Oliveros
+TEL: +57 3016463357
+NOTE: Negocios Concursales
 END:VCARD`;
 
     const blob = new Blob([vcardData], { type: 'text/vcard' });
