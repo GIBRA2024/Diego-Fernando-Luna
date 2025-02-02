@@ -1,7 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-FN:Diego Fernando Luna Oliveros
+FN:Diego Fernando Luna
 TEL: +57 3016463357
 NOTE: Negocios Concursales
 END:VCARD`;
