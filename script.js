@@ -3,6 +3,7 @@ function descargarContacto() {
 VERSION:3.0
 FN:Diego Fernando Luna
 TEL: +57 3016463357
+EMAIL:diego.luna@jimenezpuerta.com
 NOTE: Negocios Concursales
 END:VCARD`;
 
